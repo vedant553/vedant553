@@ -1,88 +1,78 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Vedant Nandeshwar 👋</h1>
-<p align="center">
-Full‑Stack Developer • UI/UX Enthusiast • JS/TS • React • Node • Mongo/Postgres
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://vedantnandeshwar.vercel.app">Portfolio</a> •
-  <a href="mailto:vedantnandeshwar2003@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/vedant-nandeshwar">LinkedIn</a>
-</p>
+# 👋 Hi, I'm Vedant Nandeshwar
 
----
+**Full-Stack Developer** • UI/UX Enthusiast • Open to Opportunities
 
-### About me
-- Mumbai, Maharashtra (Open to internships and full‑time roles)  
-- Building intuitive, accessible web apps with React, TypeScript, and Node.js  
-- Exploring voice UIs, computer vision, and real‑time systems  
-- Happy to collaborate on full‑stack apps, UI engineering, and dev tooling  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vedantnandeshwar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-nandeshwar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantnandeshwar2003@gmail.com)
+
+</div>
 
 ---
 
-### Tech stack
-- Languages: JavaScript, TypeScript, Python, SQL, HTML/CSS  
-- Frontend: React, React Hooks, Tailwind CSS, shadcn/ui, Framer Motion  
-- Backend: Node.js, Express.js, FastAPI, Socket.IO, WebSockets, JWT, REST  
-- Databases: MongoDB (Mongoose), PostgreSQL  
-- Tools: Git, Docker & Compose, Vite, OpenCV, MediaPipe, Pygame  
+## 🚀 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
+Building intuitive, accessible web experiences with **React**, **TypeScript**, and **Node.js**  
+📍 Mumbai, Maharashtra | 🎯 Exploring voice UIs, computer vision & real-time systems
 
 ---
 
-### Spotlight projects
-- Planoraa — Full‑stack travel planner with real‑time itineraries, expenses, and group collaboration.  
-  Stack: React, TypeScript, Tailwind, shadcn/ui, Node.js, Express, MongoDB (JWT auth).  
-  Live: https://planoraa.vercel.app • Repo: add‑link-here
+## 💻 Tech Stack
 
-- Speakify — Voice‑driven task manager using Web Speech API with a modern TS/React UI.  
-  Live: https://speakifyy.vercel.app • Repo: add‑link-here
-
-- Portfolio — Animated, responsive developer portfolio with Framer Motion.  
-  Live: https://vedantnandeshwar.vercel.app • Repo: add‑link-here
-
-- Pathfinding Visualizer — Interactive A* visualizer with real‑time node exploration and \(O(n \log n)\) efficiency.  
-  Live: https://pathfinder-vedant.vercel.app • Repo: add‑link-here
-
-- Spell‑Casting OpenCV Game — Gesture‑controlled game using MediaPipe + OpenCV with FastAPI/WebSockets.  
-  Repo: https://github.com/vedant553/spell-casting-game-webapp
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
-### Experience
-- Front‑end Developer & UI/UX Intern @ KodeVortex (Jul 2024 – Jan 2025)  
-  Built accessible React UIs and designed the company website with Figma/Canva.
+## ✨ Featured Projects
+
+### 🗺️ [Planoraa](https://planoraa.vercel.app)
+Full-stack travel planner with real-time itineraries & group collaboration  
+`React` `TypeScript` `Tailwind` `Node.js` `MongoDB` `JWT`
+
+### 🎤 [Speakify](https://speakifyy.vercel.app)
+Voice-driven task manager using Web Speech API  
+`React` `TypeScript` `Web Speech API`
+
+### 🎯 [Pathfinding Visualizer](https://pathfinder-vedant.vercel.app)
+Interactive A* algorithm visualization with O(n log n) efficiency  
+`React` `Algorithms` `Data Structures`
+
+### 🪄 [Spell-Casting Game](https://github.com/vedant553/spell-casting-game-webapp)
+Gesture-controlled game using MediaPipe + OpenCV  
+`Python` `OpenCV` `FastAPI` `WebSockets`
 
 ---
 
-### Education & Certifications
-- B.E. CSE (AI & ML), Hons. Blockchain — Vishwaniketan’s iMEET (2025)  
-- ICETCSE‑2025 Certificate of Presentation (IEEE Bombay Section)  
-- Google: Foundations of UX Design (2025)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedant553&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant553&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
 ---
 
-### GitHub stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vedant553&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant553&layout=compact&theme=tokyonight" height="150" />
-</p>
+## 💼 Experience
+
+**Front-end Developer & UI/UX Intern** @ KodeVortex *(Jul 2024 – Jan 2025)*  
+Built accessible React UIs • Designed company website with Figma
 
 ---
 
-### Let’s connect
-- Portfolio: https://vedantnandeshwar.vercel.app  
-- Email: vedantnandeshwar2003@gmail.com  
-- LinkedIn: https://linkedin.com/in/vedant-nandeshwar
+<div align="center">
+
+### 📫 Let's Connect
+
+**[vedantnandeshwar.vercel.app](https://vedantnandeshwar.vercel.app)**
+
+</div>
